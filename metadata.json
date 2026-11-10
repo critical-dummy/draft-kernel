@@ -1,0 +1,6 @@
+{
+  "name": "Draft Kernel - Pure JS Emulator & OS",
+  "description": "A pure JavaScript virtual machine emulator running Draft Kernel with C/ASM BIOS and Bootloader execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
